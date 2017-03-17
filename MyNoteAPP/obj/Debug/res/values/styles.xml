@@ -1,0 +1,2 @@
+<resources><style name="Theme.Splash" parent="android:Theme"><item name="android:windowBackground"> @drawable/splash_mynote</item><item name="android:colorBackground">#FFFFFF</item>"
+    <item name="android:windowNoTitle">true</item><item name="android:windowFullscreen">true</item></style></resources>

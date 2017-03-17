@@ -1,0 +1,20 @@
+MyNoteApp.DataAdapter, MyNoteAPP;md5df0d9c133e9a90b9e9b5c5aadd15f3b4.DataAdapter
+MyNoteApp.DataAdapter, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5df0d9c133e9a90b9e9b5c5aadd15f3b4.DataAdapter
+MyNoteApp.DataAdapter;md5df0d9c133e9a90b9e9b5c5aadd15f3b4.DataAdapter
+mynoteapp.DataAdapter;md5df0d9c133e9a90b9e9b5c5aadd15f3b4.DataAdapter
+MyNoteApp.Resources.values.SplashScreen, MyNoteAPP;md5d6b6a5a46d136d52061662c63eed30af.SplashScreen
+MyNoteApp.Resources.values.SplashScreen, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d6b6a5a46d136d52061662c63eed30af.SplashScreen
+MyNoteApp.Resources.values.SplashScreen;md5d6b6a5a46d136d52061662c63eed30af.SplashScreen
+mynoteapp.resources.values.SplashScreen;md5d6b6a5a46d136d52061662c63eed30af.SplashScreen
+MyNoteAPP.MainActivity, MyNoteAPP;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+MyNoteAPP.MainActivity, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+MyNoteAPP.MainActivity;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+mynoteapp.MainActivity;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+MyNoteAPP.Resources.values.AddItem, MyNoteAPP;md50ea993d4a764a5c071c605b4135cb1ca.AddItem
+MyNoteAPP.Resources.values.AddItem, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50ea993d4a764a5c071c605b4135cb1ca.AddItem
+MyNoteAPP.Resources.values.AddItem;md50ea993d4a764a5c071c605b4135cb1ca.AddItem
+mynoteapp.resources.values.AddItem;md50ea993d4a764a5c071c605b4135cb1ca.AddItem
+MyNoteAPP.Resources.values.EditItem, MyNoteAPP;md50ea993d4a764a5c071c605b4135cb1ca.EditItem
+MyNoteAPP.Resources.values.EditItem, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50ea993d4a764a5c071c605b4135cb1ca.EditItem
+MyNoteAPP.Resources.values.EditItem;md50ea993d4a764a5c071c605b4135cb1ca.EditItem
+mynoteapp.resources.values.EditItem;md50ea993d4a764a5c071c605b4135cb1ca.EditItem
