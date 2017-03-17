@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#E0E0E0">
+    <Toolbar
+        android:background="#3F51B5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/lblAddNote" />
+        <Button
+            android:text="Save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnAdd"
+            android:layout_gravity="right"
+            android:drawableLeft="@android:drawable/ic_input_add"
+            android:background="#3F51B5"
+            android:gravity="center_vertical"
+            android:textColor="#FFFFFF"
+            android:layout_marginRight="10dp" />
+        <Button
+            android:text="Notes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnNotes"
+            android:background="#3F51B5"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="10dp" />
+    </Toolbar>
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/txtItemTitle"
+        android:hint="    Enter Title"
+        android:textColor="#000000"
+        android:background="@drawable/gradient_bg"
+        android:textColorHint="#000000" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:id="@+id/txtItemDescription"
+        android:hint="   Enter Details"
+        android:textColor="#000000"
+        android:background="@drawable/gradient_bg"
+        android:textColorHint="#000000" />
+</LinearLayout>

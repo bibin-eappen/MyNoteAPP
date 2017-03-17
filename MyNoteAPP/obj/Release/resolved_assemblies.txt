@@ -1,0 +1,9 @@
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\MyNoteAPP.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\Java.Interop.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\Mono.Android.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\mscorlib.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\System.Core.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\System.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\System.Xml.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\assets\System.ServiceModel.Internals.dll

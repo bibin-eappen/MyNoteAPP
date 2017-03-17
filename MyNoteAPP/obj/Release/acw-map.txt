@@ -1,0 +1,4 @@
+MyNoteAPP.MainActivity, MyNoteAPP;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+MyNoteAPP.MainActivity, MyNoteAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+MyNoteAPP.MainActivity;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity
+mynoteapp.MainActivity;md5bd325c1e49243e63ae421efd9ff449a2.MainActivity

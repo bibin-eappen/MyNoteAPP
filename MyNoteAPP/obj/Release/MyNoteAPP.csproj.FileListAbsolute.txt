@@ -1,0 +1,15 @@
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\bin\Release\MyNoteAPP.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\bin\Release\MyNoteAPP.pdb
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\bin\Release\MyNoteAPP.MyNoteAPP.apk
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\bin\Release\MyNoteAPP.MyNoteAPP-Signed.apk
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\MyNoteAPP.csprojResolveAssemblyReference.cache
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\MyNoteAPP.dll
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\MyNoteAPP.pdb
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\android\bin\MyNoteAPP.MyNoteAPP.apk
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\res\layout\main.xml
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\res\values\strings.xml
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\res\drawable\icon.png
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\R.cs.flag
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\uploadflags.txt
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\obj\Release\MyNoteAPP.dll.mdb
+C:\Bibin Android\MyNoteAPP\MyNoteAPP\bin\Release\MyNoteAPP.dll.mdb
